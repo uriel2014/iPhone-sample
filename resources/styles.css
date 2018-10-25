@@ -1,0 +1,30 @@
+body {
+  background-color: aquamarine;
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-family:Verdana;
+  font-weight: normal;
+  font-size:50px;
+}
+
+h1.odd {
+  font-family:Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+a{
+  color: red;
+  font-size: 16px;
+
+}
+p.description {
+  color: maroon;
+  font-size: 21px;
+  font-family:Verdana;
+}
+p.copyright {
+  color:red;
+  text-align: right;
+}
